@@ -1,0 +1,52 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+#hero {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#title-main {
+    font-size: 1.2rem;
+    font-family: 'Libre Baskerville';
+}
+
+#title-ani {
+    font-size: 7rem;
+    font-family: "great vibes";
+}
+
+#Intro-text {
+    margin-left: 35%;
+    margin-right: 35%;
+    text-align: justify;
+    font-family: "Libre Baskerville";
+}
+
+#letter-sign {
+    text-align: right;
+}
+
+#letter-head {
+    font-family: "great vibes";
+    font-size: 2rem;
+}
+
+#reasons {
+    margin-left: 40%;
+    margin-right: 35%;
+    margin-top: 10%;
+    text-align: justify;
+    font-family: "Libre Baskerville";
+}
+
+li {
+    margin-bottom: 10px;
+}
